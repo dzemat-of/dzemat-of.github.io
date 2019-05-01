@@ -3,183 +3,183 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.dzemat-offenbach.de/tags/ajet/</loc>
+    <loc>https://dzemat-of.github.io/tags/ajet/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.dzemat-offenbach.de/author/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="www.dzemat-offenbach.de/de/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="www.dzemat-offenbach.de/author/"
-                />
-  </url>
-  
-  <url>
-    <loc>www.dzemat-offenbach.de/categories/</loc>
+    <loc>https://dzemat-of.github.io/author/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="www.dzemat-offenbach.de/de/categories/"
+                href="https://dzemat-of.github.io/de/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="www.dzemat-offenbach.de/categories/"
+                href="https://dzemat-of.github.io/author/"
                 />
   </url>
   
   <url>
-    <loc>www.dzemat-offenbach.de/categories/citati/</loc>
+    <loc>https://dzemat-of.github.io/categories/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="www.dzemat-offenbach.de/de/categories/citati/"
+                href="https://dzemat-of.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="www.dzemat-offenbach.de/categories/citati/"
+                href="https://dzemat-of.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>www.dzemat-offenbach.de/</loc>
+    <loc>https://dzemat-of.github.io/categories/citati/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="www.dzemat-offenbach.de/de/"
+                href="https://dzemat-of.github.io/de/categories/citati/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="www.dzemat-offenbach.de/"
+                href="https://dzemat-of.github.io/categories/citati/"
                 />
   </url>
   
   <url>
-    <loc>www.dzemat-offenbach.de/author/kuran-al-araf-29/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.dzemat-offenbach.de/author/kuran-at-tawba-18/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.dzemat-offenbach.de/tags/kuran/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.dzemat-offenbach.de/quote/</loc>
+    <loc>https://dzemat-of.github.io/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="www.dzemat-offenbach.de/de/quote/"
+                href="https://dzemat-of.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="www.dzemat-offenbach.de/quote/"
+                href="https://dzemat-of.github.io/"
                 />
   </url>
   
   <url>
-    <loc>www.dzemat-offenbach.de/quote/2019/quran-mosque-purpose/</loc>
+    <loc>https://dzemat-of.github.io/author/kuran-al-araf-29/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="www.dzemat-offenbach.de/de/quote/2019/quran-mosque-purpose/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="www.dzemat-offenbach.de/quote/2019/quran-mosque-purpose/"
-                />
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.dzemat-offenbach.de/tags/</loc>
+    <loc>https://dzemat-of.github.io/author/kuran-at-tawba-18/</loc>
+    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dzemat-of.github.io/tags/kuran/</loc>
+    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dzemat-of.github.io/quote/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="www.dzemat-offenbach.de/de/tags/"
+                href="https://dzemat-of.github.io/de/quote/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="www.dzemat-offenbach.de/tags/"
+                href="https://dzemat-of.github.io/quote/"
                 />
   </url>
   
   <url>
-    <loc>www.dzemat-offenbach.de/quote/2019/quran-mosque-importance/</loc>
+    <loc>https://dzemat-of.github.io/quote/2019/quran-mosque-purpose/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="www.dzemat-offenbach.de/de/quote/2019/quran-mosque-importance/"
+                href="https://dzemat-of.github.io/de/quote/2019/quran-mosque-purpose/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="www.dzemat-offenbach.de/quote/2019/quran-mosque-importance/"
+                href="https://dzemat-of.github.io/quote/2019/quran-mosque-purpose/"
                 />
   </url>
   
   <url>
-    <loc>www.dzemat-offenbach.de/page/about-bkzs/</loc>
+    <loc>https://dzemat-of.github.io/tags/</loc>
+    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dzemat-of.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://dzemat-of.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dzemat-of.github.io/quote/2019/quran-mosque-importance/</loc>
+    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dzemat-of.github.io/de/quote/2019/quran-mosque-importance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://dzemat-of.github.io/quote/2019/quran-mosque-importance/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dzemat-of.github.io/page/about-bkzs/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="www.dzemat-offenbach.de/de/page/about-bkzs/"
+                href="https://dzemat-of.github.io/de/page/about-bkzs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="www.dzemat-offenbach.de/page/about-bkzs/"
+                href="https://dzemat-of.github.io/page/about-bkzs/"
                 />
   </url>
   
   <url>
-    <loc>www.dzemat-offenbach.de/page/</loc>
+    <loc>https://dzemat-of.github.io/page/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="www.dzemat-offenbach.de/de/page/"
+                href="https://dzemat-of.github.io/de/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="www.dzemat-offenbach.de/page/"
+                href="https://dzemat-of.github.io/page/"
                 />
   </url>
   
