@@ -3,189 +3,189 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/de/author/</loc>
+    <loc>www.dzemat-offenbach.de/de/author/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/author/"
+                href="www.dzemat-offenbach.de/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/author/"
+                href="www.dzemat-offenbach.de/de/author/"
                 />
   </url>
   
   <url>
-    <loc>/de/tags/ayah/</loc>
+    <loc>www.dzemat-offenbach.de/de/tags/ayah/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/de/categories/</loc>
+    <loc>www.dzemat-offenbach.de/de/categories/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/categories/"
+                href="www.dzemat-offenbach.de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="www.dzemat-offenbach.de/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>/de/categories/citati/</loc>
+    <loc>www.dzemat-offenbach.de/de/categories/citati/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/categories/citati/"
+                href="www.dzemat-offenbach.de/categories/citati/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/citati/"
+                href="www.dzemat-offenbach.de/de/categories/citati/"
                 />
   </url>
   
   <url>
-    <loc>/de/quote/2019/quran-mosque-importance/</loc>
+    <loc>www.dzemat-offenbach.de/de/quote/2019/quran-mosque-importance/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/quote/2019/quran-mosque-importance/"
+                href="www.dzemat-offenbach.de/quote/2019/quran-mosque-importance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/quote/2019/quran-mosque-importance/"
+                href="www.dzemat-offenbach.de/de/quote/2019/quran-mosque-importance/"
                 />
   </url>
   
   <url>
-    <loc>/de/tags/koran/</loc>
+    <loc>www.dzemat-offenbach.de/de/tags/koran/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/de/author/koran-al-araf-29/</loc>
+    <loc>www.dzemat-offenbach.de/de/author/koran-al-araf-29/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/de/author/koran-at-tawba-18/</loc>
+    <loc>www.dzemat-offenbach.de/de/author/koran-at-tawba-18/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/de/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
-  </url>
-  
-  <url>
-    <loc>/de/quote/</loc>
+    <loc>www.dzemat-offenbach.de/de/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/quote/"
+                href="www.dzemat-offenbach.de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/quote/"
+                href="www.dzemat-offenbach.de/de/"
                 />
   </url>
   
   <url>
-    <loc>/de/tags/</loc>
+    <loc>www.dzemat-offenbach.de/de/quote/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/tags/"
+                href="www.dzemat-offenbach.de/quote/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="www.dzemat-offenbach.de/de/quote/"
                 />
   </url>
   
   <url>
-    <loc>/de/categories/zitate/</loc>
+    <loc>www.dzemat-offenbach.de/de/tags/</loc>
+    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="www.dzemat-offenbach.de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="www.dzemat-offenbach.de/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>www.dzemat-offenbach.de/de/categories/zitate/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/de/quote/2019/quran-mosque-purpose/</loc>
+    <loc>www.dzemat-offenbach.de/de/quote/2019/quran-mosque-purpose/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/quote/2019/quran-mosque-purpose/"
+                href="www.dzemat-offenbach.de/quote/2019/quran-mosque-purpose/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/quote/2019/quran-mosque-purpose/"
+                href="www.dzemat-offenbach.de/de/quote/2019/quran-mosque-purpose/"
                 />
   </url>
   
   <url>
-    <loc>/de/page/</loc>
+    <loc>www.dzemat-offenbach.de/de/page/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/page/"
+                href="www.dzemat-offenbach.de/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/page/"
+                href="www.dzemat-offenbach.de/de/page/"
                 />
   </url>
   
   <url>
-    <loc>/de/page/about-bkzs/</loc>
+    <loc>www.dzemat-offenbach.de/de/page/about-bkzs/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/page/about-bkzs/"
+                href="www.dzemat-offenbach.de/page/about-bkzs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/page/about-bkzs/"
+                href="www.dzemat-offenbach.de/de/page/about-bkzs/"
                 />
   </url>
   

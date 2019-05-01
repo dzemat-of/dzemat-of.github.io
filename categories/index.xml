@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Džemat Offenbach a.M.</title>
-    <link>/categories/</link>
+    <link>www.dzemat-offenbach.de/categories/</link>
     <description>Recent content in Categories on Džemat Offenbach a.M.</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Apr 2019 12:42:56 +0200</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.dzemat-offenbach.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Citati</title>
-      <link>/categories/citati/</link>
+      <link>www.dzemat-offenbach.de/categories/citati/</link>
       <pubDate>Sun, 28 Apr 2019 12:42:56 +0200</pubDate>
       
-      <guid>/categories/citati/</guid>
+      <guid>www.dzemat-offenbach.de/categories/citati/</guid>
       <description></description>
     </item>
     
