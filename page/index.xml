@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Džemat Offenbach a.M.</title>
-    <link>www.dzemat-offenbach.de/page/</link>
+    <link>/page/</link>
     <description>Recent content in Pages on Džemat Offenbach a.M.</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.dzemat-offenbach.de/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>O nama</title>
-      <link>www.dzemat-offenbach.de/page/about-bkzs/</link>
+      <link>/page/about-bkzs/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.dzemat-offenbach.de/page/about-bkzs/</guid>
+      <guid>/page/about-bkzs/</guid>
       <description>Naš Džemat Džemat Bošnjačka Kulturna Zajednica Sandžak je osnovan krajem 2009. godine u gradu Offenbachu na Maini u Njemačkoj. Trenutno broji preko 150 aktivnih članova na čelu s predsjednikom Ismajilom Iljazović i imamom Nedžatom ef. Ljajić. Prije 2009. su naši članovi bili aktivni članovi bosanskog džemata u Offenbachu od samog njegovog osnivanja 1993&amp;frasl;1994 godine.
 Džemat je u 2018. godini brojao preko 150 aktivnih članova. Više od 120 učenika pohađa džematski mekteb.</description>
     </item>
