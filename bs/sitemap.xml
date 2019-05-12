@@ -206,19 +206,7 @@
   </url>
   
   <url>
-    <loc>http://dzemat-offenbach.de/tags/ajet/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://dzemat-offenbach.de/tags/dzamija/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/categories/kuran/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -230,7 +218,19 @@
   </url>
   
   <url>
+    <loc>http://dzemat-offenbach.de/categories/kuran/</loc>
+    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dzemat-offenbach.de/tags/namaz/</loc>
+    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/pravednost/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <priority>0</priority>
   </url>
