@@ -144,27 +144,6 @@
   </url>
   
   <url>
-    <loc>http://dzemat-offenbach.de/de/page/impressum/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/de/page/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="http://dzemat-offenbach.de/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://dzemat-offenbach.de/de/page/"
-                />
-  </url>
-  
-  <url>
     <loc>http://dzemat-offenbach.de/de/quote/2019/quran-mosque-importance/</loc>
     <lastmod>2019-04-28T12:42:56+02:00</lastmod>
     <xhtml:link
@@ -253,6 +232,22 @@
   </url>
   
   <url>
+    <loc>http://dzemat-offenbach.de/de/page/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/page/"
+                />
+  </url>
+  
+  <url>
     <loc>http://dzemat-offenbach.de/de/page/about-bkzs/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -265,6 +260,11 @@
                 hreflang="de"
                 href="http://dzemat-offenbach.de/de/page/about-bkzs/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/page/impressum/</loc>
+    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
