@@ -3,45 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dzemat-offenbach.de/de/page/impressum/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/de/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
+    <loc>http://dzemat-offenbach.de/de/article/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="http://dzemat-offenbach.de/"
+                href="http://dzemat-offenbach.de/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://dzemat-offenbach.de/de/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/de/page/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="http://dzemat-offenbach.de/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://dzemat-offenbach.de/de/page/"
+                href="http://dzemat-offenbach.de/de/article/"
                 />
   </url>
   
   <url>
     <loc>http://dzemat-offenbach.de/de/author/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -57,7 +36,7 @@
   
   <url>
     <loc>http://dzemat-offenbach.de/de/categories/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -68,6 +47,120 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://dzemat-offenbach.de/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/tags/erfolg/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/tags/geduld/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/tags/kinder/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/tags/koran/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/categories/studien/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/tags/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/article/2019/marshmallow-test/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/article/2019/marshmallow-test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/article/2019/marshmallow-test/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/author/dzemat-of/</loc>
+    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/author/dzemat-of/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/author/dzemat-of/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/page/impressum/</loc>
+    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/de/page/</loc>
+    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/page/"
                 />
   </url>
   
@@ -135,22 +228,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://dzemat-offenbach.de/de/quote/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/de/tags/</loc>
-    <lastmod>2019-04-28T12:42:56+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="http://dzemat-offenbach.de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://dzemat-offenbach.de/de/tags/"
                 />
   </url>
   
