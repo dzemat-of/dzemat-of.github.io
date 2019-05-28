@@ -5,10 +5,28 @@
     <link>http://dzemat-offenbach.de/de/categories/</link>
     <description>Recent content in Categories on Moschee Offenbach</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 May 2019 20:21:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 14:33:34 +0200</lastBuildDate>
     
 	<atom:link href="http://dzemat-offenbach.de/de/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dove</title>
+      <link>http://dzemat-offenbach.de/de/categories/dove/</link>
+      <pubDate>Tue, 28 May 2019 14:33:34 +0200</pubDate>
+      
+      <guid>http://dzemat-offenbach.de/de/categories/dove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hadisi</title>
+      <link>http://dzemat-offenbach.de/de/categories/hadisi/</link>
+      <pubDate>Tue, 28 May 2019 14:33:34 +0200</pubDate>
+      
+      <guid>http://dzemat-offenbach.de/de/categories/hadisi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Studien</title>

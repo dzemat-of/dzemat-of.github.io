@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://dzemat-offenbach.de/author/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -19,14 +19,24 @@
   </url>
   
   <url>
-    <loc>http://dzemat-offenbach.de/tags/buhari/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <loc>http://dzemat-offenbach.de/tags/blagoslov/</loc>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/tags/blagoslov/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/tags/blagoslov/"
+                />
   </url>
   
   <url>
     <loc>http://dzemat-offenbach.de/categories/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -41,14 +51,39 @@
   </url>
   
   <url>
-    <loc>http://dzemat-offenbach.de/categories/citati/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <loc>http://dzemat-offenbach.de/quote/2019/dua-blessing-protection/</loc>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/quote/2019/dua-blessing-protection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/quote/2019/dua-blessing-protection/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/categories/dove/</loc>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/categories/dove/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/categories/dove/"
+                />
   </url>
   
   <url>
     <loc>http://dzemat-offenbach.de/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -63,32 +98,72 @@
   </url>
   
   <url>
-    <loc>http://dzemat-offenbach.de/tags/ebu-davud/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://dzemat-offenbach.de/categories/hadisi/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/tags/iskrenost/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
-    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/categories/hadisi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/categories/hadisi/"
+                />
   </url>
   
   <url>
     <loc>http://dzemat-offenbach.de/author/muhammed-as/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/author/muhammed-as/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/author/muhammed-as/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/nafaka/</loc>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/tags/nafaka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/tags/nafaka/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/nimet/</loc>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/tags/nimet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/tags/nimet/"
+                />
   </url>
   
   <url>
     <loc>http://dzemat-offenbach.de/quote/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -103,14 +178,8 @@
   </url>
   
   <url>
-    <loc>http://dzemat-offenbach.de/tags/ramazan/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://dzemat-offenbach.de/tags/</loc>
-    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -122,6 +191,52 @@
                 hreflang="bs"
                 href="http://dzemat-offenbach.de/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/zastita/</loc>
+    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/tags/zastita/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/tags/zastita/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/buhari/</loc>
+    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/categories/citati/</loc>
+    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/ebu-davud/</loc>
+    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/iskrenost/</loc>
+    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/ramazan/</loc>
+    <lastmod>2019-05-07T04:31:47+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
