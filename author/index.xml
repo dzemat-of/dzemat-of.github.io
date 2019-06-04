@@ -5,10 +5,19 @@
     <link>http://dzemat-offenbach.de/author/</link>
     <description>Recent content in Author on Džemat Offenbach</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 May 2019 14:33:34 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2019 06:55:03 +0200</lastBuildDate>
     
 	<atom:link href="http://dzemat-offenbach.de/author/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dzemat-of</title>
+      <link>http://dzemat-offenbach.de/author/dzemat-of/</link>
+      <pubDate>Tue, 04 Jun 2019 06:55:03 +0200</pubDate>
+      
+      <guid>http://dzemat-offenbach.de/author/dzemat-of/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Muhammed as</title>
@@ -16,15 +25,6 @@
       <pubDate>Tue, 28 May 2019 14:33:34 +0200</pubDate>
       
       <guid>http://dzemat-offenbach.de/author/muhammed-as/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dzemat-of</title>
-      <link>http://dzemat-offenbach.de/author/dzemat-of/</link>
-      <pubDate>Sun, 05 May 2019 12:02:10 +0200</pubDate>
-      
-      <guid>http://dzemat-offenbach.de/author/dzemat-of/</guid>
       <description></description>
     </item>
     
