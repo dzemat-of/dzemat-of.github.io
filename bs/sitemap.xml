@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://dzemat-offenbach.de/article/</loc>
-    <lastmod>2019-06-04T06:55:03+02:00</lastmod>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -20,7 +20,7 @@
   
   <url>
     <loc>http://dzemat-offenbach.de/author/</loc>
-    <lastmod>2019-06-04T06:55:03+02:00</lastmod>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -31,6 +31,93 @@
                 rel="alternate"
                 hreflang="bs"
                 href="http://dzemat-offenbach.de/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/categories/</loc>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/</loc>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/memorija/</loc>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/pamcenje/</loc>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/categories/studije/</loc>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/tags/</loc>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/article/2019/techniques-for-remembering/</loc>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dzemat-offenbach.de/author/dzemat-of/</loc>
+    <lastmod>2019-07-28T11:15:05+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dzemat-offenbach.de/de/author/dzemat-of/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="http://dzemat-offenbach.de/author/dzemat-of/"
                 />
   </url>
   
@@ -46,57 +133,9 @@
   </url>
   
   <url>
-    <loc>http://dzemat-offenbach.de/</loc>
-    <lastmod>2019-06-04T06:55:03+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://dzemat-offenbach.de/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="http://dzemat-offenbach.de/"
-                />
-  </url>
-  
-  <url>
     <loc>http://dzemat-offenbach.de/tags/ramazan/</loc>
     <lastmod>2019-06-04T06:55:03+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/tags/</loc>
-    <lastmod>2019-06-04T06:55:03+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://dzemat-offenbach.de/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="http://dzemat-offenbach.de/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/author/dzemat-of/</loc>
-    <lastmod>2019-06-04T06:55:03+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://dzemat-offenbach.de/de/author/dzemat-of/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="http://dzemat-offenbach.de/author/dzemat-of/"
-                />
   </url>
   
   <url>
@@ -109,22 +148,6 @@
     <loc>http://dzemat-offenbach.de/tags/blagoslov/</loc>
     <lastmod>2019-05-28T14:33:34+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/categories/</loc>
-    <lastmod>2019-05-28T14:33:34+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://dzemat-offenbach.de/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="http://dzemat-offenbach.de/categories/"
-                />
   </url>
   
   <url>
@@ -307,12 +330,6 @@
   
   <url>
     <loc>http://dzemat-offenbach.de/tags/strpljenje/</loc>
-    <lastmod>2019-05-04T20:21:02+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dzemat-offenbach.de/categories/studije/</loc>
     <lastmod>2019-05-04T20:21:02+02:00</lastmod>
     <priority>0</priority>
   </url>

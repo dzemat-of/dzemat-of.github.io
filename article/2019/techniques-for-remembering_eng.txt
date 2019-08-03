@@ -1,0 +1,17 @@
+- In the brain, the process involves converting working memory — things we’ve just learned — into long-term memories.
+-  Scientists have known for years that the noise of everyday life can interfere with the process of encoding information in the mind for later retrieval.
+- Other research shows the process of imprinting memories is circular, not linear. “Every time a memory is retrieved, that memory becomes more accessible in the future,”
+-  become clear just how vital repeated retrieval is to forming solid memories
+
+Making memories stick
+
+Karpicke and colleagues have shown that practicing retrieval, such as taking multiple quizzes, is far superior in creating solid memories than doing rote memorization. To study this, they had students use different methods to learn the translations of foreign words flashed on a computer screen:
+
+    One group simply studied each word and translation once, with no quizzes.
+    A second group was quizzed until they could recall each translation.
+    A third group was quizzed until they could recall each translation three times in a row after initial success.
+    The fourth group did the same as the third, but their quizzes were spaced out in time.
+
+A week later, all the students were quizzed again. Here’s the amount they remembered via each method:
+
+Based on these findings, Karpicke says self-quizzing — with flashcards or other means — can be an effective way to solidify new knowledge into memories, but the best way is to space those quizzes out, rather than doing them all in one sitting.
